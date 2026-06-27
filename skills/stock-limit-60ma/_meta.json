@@ -1,0 +1,7 @@
+{
+  "name": "stock-limit-60ma",
+  "version": "1.0.0",
+  "description": "筛选当日涨停且股价上穿 60 日均线的股票。适用于短线选股、打板策略、趋势跟踪。",
+  "author": "lisa20150928",
+  "tags": ["stock", "quant", "screener", "limit-up", "60ma"]
+}
