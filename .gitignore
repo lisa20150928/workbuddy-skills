@@ -1,0 +1,6 @@
+debug.log
+*.log
+__pycache__/
+.DS_Store
+*.zip
+.dist/
